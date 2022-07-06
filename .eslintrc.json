@@ -1,4 +1,0 @@
-{
-  "extends": ["airbnb", "prettier"],
-  "rules": { "sort-imports": "warn", "no-unused-vars": "warn" }
-}
